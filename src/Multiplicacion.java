@@ -3,6 +3,6 @@ public class Multiplicacion implements OperacionesI {
 
 	
 	public int resultado(int uno, int dos) {
-		return uno + dos;
+		return uno * dos;
 	}
 }
