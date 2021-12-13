@@ -76,7 +76,7 @@ public class Ejercicio {
 	}
 	}
 	public static void main(String[] args) throws IOException {
-	FastReader r = new FastReader("C:\\Users\\ir012982di\\eclipse-workspace\\Programame\\src\\com\\company\\pruebas.txt");
+	FastReader r = new FastReader("D:\\Debuger\\src\\EjercicioDebugger\\Pruebas.txt");
 
 	try {
 	int cant = r.readSingleInt();
